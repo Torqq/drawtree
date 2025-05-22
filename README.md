@@ -1,5 +1,5 @@
 # drawtree
-draw tree arborescence from script's folder.
+Draw tree arborescence from script's folder, ideal for organization.
 
 # Execution
 _____
