@@ -69,4 +69,4 @@ show_tree() {
 
 show_tree "$(realpath "$PATH_TO_SCAN")" 0
 
-echo -e "\n${GREEN}Export créé dans : $OUTPUT_FILE${RESET}"
+echo -e "\n${GREEN}Exported at : $OUTPUT_FILE${RESET}"
