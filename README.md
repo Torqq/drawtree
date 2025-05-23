@@ -1,7 +1,7 @@
 # drawtree
 Draw tree arborescence from script's folder, ideal for organization.
 
-# Execution
+# Execution -> Windows
 _____
 Unblock scripts strategy :
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
